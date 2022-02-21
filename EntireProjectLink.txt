@@ -1,1 +1,2 @@
-The Entire Project can be found here: https://dev.azure.com/LuminousLynx/_git/FH_TBS
+The entire project can be found here: https://dev.azure.com/LuminousLynx/_git/FH_TBS
+The release can be found here https://www.dropbox.com/s/vkats2pqn2ai848/FEE3_WrathOfJustizia.zip?dl=0
